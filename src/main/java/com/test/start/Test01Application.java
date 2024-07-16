@@ -9,6 +9,7 @@ public class Test01Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Test01Application.class, args);
 		System.out.println("무언가 바뀜");
+		System.out.println("점심 시간이다.");
 	}
 
 }
